@@ -26,7 +26,7 @@ Train a multi-model deep learning scheme (combining CNN and FNN) to predict clou
 - TensorFlow 
 
 ## Contributor
-- Pramit De (email: pramitde726@gmail.com/pramit.de.cse.2021@tint.edu.in) (Department of CSE, Techno International New Town, West Bengal, India)   
+- Shaheen O T (email: shaheen15@gmail.com) (Department of CSE, Sreepathy Institute of Management and Technology, Palakkad,Kerala, India)   
    
 
 
