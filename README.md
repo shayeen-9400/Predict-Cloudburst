@@ -1,5 +1,5 @@
 # Advancing Cloudburst Prediction with Mixed-Input Deep Learning: Combining CNN and Feed-Forward Neural Networks
-Train a multi-modal deep learning scheme (combining CNN and FNN) to predict cloudburst events using INSAT3D images and ERA5 hourly temperature and precipitation data. 
+Train a multi-model deep learning scheme (combining CNN and FNN) to predict cloudburst events using INSAT3D images and ERA5 hourly temperature and precipitation data. 
 
 ## Input data
 - Satellite images from INSAT3D collected from Meteorological and Oceanographic Satellite Data Archival Centre(https://mosdac.gov.in/) during the occurrence of cloud bursts, as well as 6 hours prior and 6 hours after the cloudburst. Images of random noncloudburst events  
